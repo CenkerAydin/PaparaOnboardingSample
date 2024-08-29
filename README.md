@@ -17,17 +17,18 @@ This project is a sample implementation of the onboarding flow inspired by the P
 
 ## Screenshots
 
+
 ### Onboarding 1
-![Onboarding Step 1](screenshots/papara_onboarding1.png)
+<img src="screenshots/papara_onboarding1.png" alt="Onboarding Step 1" width="30%"/>
 
 ### Onboarding 2
-![Onboarding Step 2](screenshots/papara_onboarding2.png)
+<img src="screenshots/papara_onboarding2.png" alt="Onboarding Step 2" width="30%"/>
 
 ### Onboarding 3
-![Onboarding Step 2](screenshots/papara_onboarding3.png)
+<img src="screenshots/papara_onboarding3.png" alt="Onboarding Step 3" width="30%"/>
 
 ### Onboarding 4
-![Onboarding Step 2](screenshots/papara_onboarding4.png)
+<img src="screenshots/papara_onboarding4.png" alt="Onboarding Step 4" width="30%"/>
 
 ### Onboarding 5
-![Onboarding Step 2](screenshots/papara_onboarding5.png)
+<img src="screenshots/papara_onboarding5.png" alt="Onboarding Step 5" width="30%"/>
