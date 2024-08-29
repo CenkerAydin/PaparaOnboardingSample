@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">PaparaOnboardingSample</string>
+    <string name="papara">papara</string>
+    <string name="giri_yap">Giriş Yap</string>
+    <string name="hesap_olustur">Hesap Oluştur</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="onboarding1_title">Işık hızında, ücretsiz para gönder</string>
+    <string name="onboarding2_title">Borçlanma, kazan</string>
+    <string name="onboarding1_description">Dilediğin kişinin Papara hesabına veya IBAN\'ına 7/24 ücretsiz para gönder. Anında para iste. Düzenli ödemelerin için para\n</string>
+    <string name="onboarding3_title">Cashback ile harcadıkça anında</string>
+    <string name="onboarding4_title">Harcamalar, faturalar, kumanda sende.</string>
+    <string name="onboarding5_title">Papara ile kolayca ödeme al.</string>
+    <string name="onboarding2_description">Papara Card ile tüm dünyada ve internette borçlanmadan harca. Üstelik kart ücreti veya kullanım ücreti yok.</string>
+    <string name="onboarding3_description">Cashback markalarında yapacağın harcamalarda koşulsuz şartsiz %5 ile %50 arasında anında nakit kazan!</string>
+    <string name="onboarding4_description">Fatura, ulaşım ve diğer bütün ödemelerini Papara ile yap. Anlık bildirimler ve grafiklerle harcamalarını takip et.\n</string>
+    <string name="onboarding5_description">Şahıs işletmeleri, bireysel satıcılar ve bağımsız çalışanlar için mükemmel çözüm. İster Papara numaranı paylaş ister QR kod\n</string>
+    <string name="guvenlik_bildirgesi">Güvenlik Bildirgesi</string>
+    <string name="payment_icon">payment icon</string>
+    <string name="fatura_icon">fatura icon</string>
+    <string name="cashback_icon">cashback icon</string>
+    <string name="kazan_icon">kazan icon</string>
+    <string name="papara_icon">papara icon</string>
+</resources>
